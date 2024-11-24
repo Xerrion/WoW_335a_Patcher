@@ -1,7 +1,7 @@
 # World of Warcraft 3.3.5a Patcher
 
 
-**WoWFix335** is a binary patcher used to fix various issues in the World of Warcraft 3.3.5a client version.
+**World of Warcraft 3.3.5a Patcher** is a binary patcher used to fix various issues in the World of Warcraft 3.3.5a client version.
 
 This repository is a continuation of robinsch [WoWFix335](https://github.com/robinsch/WoWFix335) that adds support for version 3.3.5a
 
@@ -17,9 +17,7 @@ The project has undergone a significant rewrite for improved reliability, mainta
 
 ## Usage
 
-- **Compile WoWFix:** Use Visual Studio 2022 or CLion to compile WoWFix.
-- **Download Binaries:** Alternatively, download the compiled binaries from the [releases page](https://github.com/xerrion/WoWFix335/releases).
+- **Compile WoWFix:** Use Visual Studio 2022 or CLion to compile.
 
 ## Sponsor WoWFix335
-
-Support the continuation of WoWFix335 development by [sponsoring this project](https://github.com/sponsors/robinsch).
+Support the continuation of WoWFix335 development by [sponsoring robinsch's WoWFix335](https://github.com/sponsors/robinsch).
